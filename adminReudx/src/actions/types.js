@@ -1,0 +1,10 @@
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+export const GET_ALL_USERS = 'GET_ALL_USERS';
+export const DELETE_USER = 'DELETE_USER';
+export const GET_USER = 'GET_USER';
+export const GET_ALL_CAT = 'GET_ALL_CAT'
+export const NEW_CAT = 'NEW_CAT'
+export const CON_CAT = 'CON_CAT';
+export const SUG_CAT='SUG_CAT';
+export const DEL_CAT='DEL_CAT';
+export const DEL_SUGG='DEL_SUGG'
